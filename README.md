@@ -39,6 +39,8 @@ Email Me 👉 ✉️ **[hemantpandeyh29@gmail.com](mailto:hemantpandeyh29@gmail.
 ![](https://streak-stats.demolab.com/?user=hemantp121&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hemantp121&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!-- pie chart (languages by repo and languages by commit) -->
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
