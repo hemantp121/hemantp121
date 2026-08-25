@@ -1,4 +1,3 @@
-<!-- MY README.MD FILE(Hemantp121)-->
 <!-- Typing SVG -->
 
 <p align="center">
